@@ -4,7 +4,7 @@ void bubble_sort(int *a, int length);   //冒泡排序法
 
 int main()
 {
-    printf("Hello, World!\n");
+//    printf("Hello, World!\n");
     int a[10]={1, 4, 2, 56, 34, 23, 90, 20, 66, 88};
     int length = sizeof(a)/sizeof(int);
     // printf("%d\n",sizeof(int));
