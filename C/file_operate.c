@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 /**
 * 文件复制函数
 * @param fSource 要复制的原文件
