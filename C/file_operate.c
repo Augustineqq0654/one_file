@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+#define FILENAME "filename.txt"
 /**
 * 文件复制函数
 * @param fSource 要复制的原文件
